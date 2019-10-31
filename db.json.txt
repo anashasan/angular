@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Anas",
+      "author": "Anas"
+    }
+  ],
+  "myposts": [
+    {
+      "name": "farhan",
+      "id": "555",
+      "email": "farhan@gmailcom",
+      "address": "177",
+      "price": "253"
+    },
+    {
+      "name": "anas",
+      "id": "2",
+      "email": "anas@gmail.com",
+      "address": "178",
+      "price": "5"
+    },
+    {
+      "name": "Amir",
+      "id": "14",
+      "email": "amir@gmail.com",
+      "address": "198",
+      "price": "12"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
